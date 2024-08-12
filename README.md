@@ -1,4 +1,4 @@
-                                                    MYBIKE Landing Page.
+                                                    MYBIKE Landing Page
 
 Project Overview:
 
