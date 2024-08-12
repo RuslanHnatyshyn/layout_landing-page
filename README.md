@@ -1,21 +1,27 @@
-# Landing page
+                                                    MYBIKE Landing Page
 
-> ❗❗ You will complete this task in the topic **Landing**.
-> Now just choose a design and do the parts from the videos
+Project Overview:
 
-Choose a design for your landing page:
-- [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+MYBIKE Landing Page is a single-page website designed to showcase a bicycle brand. The project features a stylish design, responsive layout, and modern technologies to ensure the best user experience.
+
+
+Technologies Used:
+
+HTML5: Page markup.
+CSS3: Styling and animation.
+SCSS: CSS preprocessor for better organization and maintainability of styles.
+JavaScript: Functionality and interactivity.
+Parcel: Fast project bundling and performance optimization.
+
+
+Preview:
+
+Visit the demo to see the project in action.
+- [DEMO LINK](https://RuslanHnatyshyn.github.io/layout_landing-page/)
+                        ☝️
+
+
+Design:
+
+Project design is available on Figma:
 - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-- [B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0)
-- [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
-
-Follow the videos in this and next lessons to implement the page block by block
-- Here is [the design from the video](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6703-88&t=L7eKz5YKLN0m5WxR-0) (❗❗ DO NOT implement this design ❗❗ choose one of the options above ❗❗ ☝️)
-- Start writing styles in the `main.scss` file. It is be explained in the `Sass` lesson
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- When done check yourself using the [CHECKLIST](./checklist.md) when finished;
-- Deploy and create a Pull Request with a [DEMO LINK](https://RuslanHnatyshyn.github.io/layout_landing-page/)
-
-# Tips & Hints
-- Check `background-image: url()` to be relative to the `main.scss`. So should start with `../images`.
-- If some points from the checklist are not relevant to your design, just skip it.
