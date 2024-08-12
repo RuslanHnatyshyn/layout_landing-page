@@ -25,3 +25,14 @@ Design:
 
 Project design is available on Figma:
 - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+
+Getting Started:
+
+To run the project locally, follow these steps:
+
+1.git clone https://github.com/RuslanHnatyshyn/layout_landing-page.git
+2.cd layout_landing-page
+3.npm install
+4.npm start
+
+
