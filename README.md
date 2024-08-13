@@ -18,7 +18,7 @@ Preview:
 
 Visit the demo to see the project in action.
 - [DEMO LINK](https://RuslanHnatyshyn.github.io/layout_landing-page/)
-                         ☝️
+                        ☝️
 
 
 Design:
