@@ -18,7 +18,7 @@ Preview:
 
 Visit the demo to see the project in action.
 - [DEMO LINK](https://RuslanHnatyshyn.github.io/layout_landing-page/)
-                        ☝️
+                         ☝️
 
 
 Design:
@@ -30,9 +30,9 @@ Getting Started:
 
 To run the project locally, follow these steps:
 
-1.git clone https://github.com/RuslanHnatyshyn/layout_landing-page.git
-2.cd layout_landing-page
-3.npm install
-4.npm start
+1. git clone https://github.com/RuslanHnatyshyn/layout_landing-page.git
+2. cd layout_landing-page
+3. npm install
+4. npm start
 
 
