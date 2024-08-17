@@ -7,18 +7,18 @@
 
 ## Technologies
 
--**HTML5**: Page markup.
--**CSS3**: Styling and animations.
--**SCSS**: CSS preprocessor for better organization and maintainability of styles.
--**JavaScript**: Functionality and interactivity.
--**Parcel**: Fast project bundling and performance optimization.
+- **HTML5**: Page markup.
+- **CSS3**: Styling and animations.
+- **SCSS**: CSS preprocessor for better organization and maintainability of styles.
+- **JavaScript**: Functionality and interactivity.
+- **Parcel**: Fast project bundling and performance optimization.
 
 
 ## Features
 
--**Stylish Design**: Modern and visually appealing interface.
--**Responsive Layout**: Adaptable design for various devices.
--**Smooth Animations**: Enhances user experience with fluid transitions.
+- **Stylish Design**: Modern and visually appealing interface.
+- **Responsive Layout**: Adaptable design for various devices.
+- **Smooth Animations**: Enhances user experience with fluid transitions.
 
 
 ## Demo
@@ -60,4 +60,4 @@ npm install
 ```bash
 npm start
 
-```!\
+```
