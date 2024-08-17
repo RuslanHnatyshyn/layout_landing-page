@@ -1,38 +1,53 @@
-                                                    MYBIKE Landing Page
+MYBIKE Landing Page
 
-Project Overview:
+Welcome to MYBIKE
 
-MYBIKE Landing Page is a single-page website designed to showcase a bicycle brand. The project features a stylish design, responsive layout, and modern technologies to ensure the best user experience.
+MYBIKE Landing Page is a single-page website designed to showcase a bicycle brand. Our project features a stylish design, responsive layout, and modern technologies to ensure the best user experience.
 
 
-Technologies Used:
+Technologies
 
 HTML5: Page markup.
-CSS3: Styling and animation.
+CSS3: Styling and animations.
 SCSS: CSS preprocessor for better organization and maintainability of styles.
 JavaScript: Functionality and interactivity.
 Parcel: Fast project bundling and performance optimization.
 
 
-Preview:
+Features
 
-Visit the demo to see the project in action.
-- [DEMO LINK](https://RuslanHnatyshyn.github.io/layout_landing-page/)
-                         ☝️
+Stylish Design: Modern and visually appealing interface.
+Responsive Layout: Adaptable design for various devices.
+Smooth Animations: Enhances user experience with fluid transitions.
 
 
-Design:
+Demo
+Check out the project live:
+DEMO LINK - [DEMO LINK](https://RuslanHnatyshyn.github.io/layout_landing-page/)
 
-Project design is available on Figma:
-- [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
-Getting Started:
+Design
+
+Project design is available on Figma: - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+
+
+Getting Started
 
 To run the project locally, follow these steps:
 
-1. git clone https://github.com/RuslanHnatyshyn/layout_landing-page.git
-2. cd layout_landing-page
-3. npm install
-4. npm start
+1. Clone the Repository:
+bash
 
+git clone https://github.com/RuslanHnatyshyn/layout_landing-page.git
 
+2. Navigate to the Project Directory:
+
+cd layout_landing-page
+
+3. Install Dependencies:
+
+npm install
+
+4. Start the Development Server:
+
+npm start
