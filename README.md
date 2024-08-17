@@ -22,11 +22,11 @@
 
 
 ## Demo
-Check out the project live: - [MyBIKE](https://RuslanHnatyshyn.github.io/layout_landing-page/)
+Check out the project live:  [MyBIKE](https://RuslanHnatyshyn.github.io/layout_landing-page/)
 
 
 ## Design
-Project design is available on Figma: - [MyBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+Project design is available on Figma:  [MyBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
 
 ## Getting Started
